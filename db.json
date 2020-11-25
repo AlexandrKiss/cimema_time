@@ -1,7 +1,54 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+		"id": 1,
+		"name": "text",
+		"genre": "text",
+		"duration": 100,
+		"img": "url",
+		"trailer": "url",
+		"sessions": [
+			{
+				"id": 1,
+				"date": "25.11.2020 14:00",
+				"hall": {
+				"id": 1,
+				"seats": [
+					{
+						"id": 1,
+						"num": 5,
+						"row": 4,
+						"type": { "id": 1, "name": "Стандарт",  "price": 120.0 }
+					},
+					{
+						"id": 2,
+						"num": 6,
+						"row": 4,
+						"type": { "id": 1, "name": "Стандарт",  "price": 120.0 }
+					}
+				]
+			},
+			{
+				"id": 2,
+				"date": "25.11.2020 18:00",
+				"hall": {
+				"id": 1,
+				"seats": [
+					{
+						"id": 1,
+						"num": 5,
+						"row": 4,
+						"type": { "id": 1, "name": "Стандарт",  "price": 120.0 }
+					},
+					{
+						"id": 2,
+						"num": 6,
+						"row": 4,
+						"type": { "id": 1, "name": "Стандарт",  "price": 120.0 }
+					}
+				]
+			}
+		]
+    }
   ]
 }
