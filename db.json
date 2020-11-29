@@ -15,7 +15,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -36,7 +36,7 @@
 						},
 						{
 							"id": 2,
-							"date": "18:00",
+							"time": "18:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -62,7 +62,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -88,7 +88,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -125,7 +125,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -162,7 +162,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -199,7 +199,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
@@ -236,7 +236,7 @@
 					"sessions": [
 						{
 							"id": 1,
-							"date": "14:00",
+							"time": "14:00",
 							"hall": {
 								"id": 1,
 								"seats": [
