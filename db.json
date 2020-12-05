@@ -16,109 +16,109 @@
 			"id": 3,
 			"name": "Eilat",
 			"price": 282.00,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/eilat/eilat_600x600_new_int.jpg"
+			"image": "https://nashaplitka.ua/img/product/1810.jpg"
 		},
 		{
 			"id": 4,
 			"name": "Ester",
 			"price": 290.40,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/ester/2017%20collection%2020%20easter%20600x600_3.jpg"
+			"image": "https://ceramroom.com.ua/content/images/29/47832677048832_small11.jpeg"
 		},
 		{
 			"id": 5,
 			"name": "Fuji",
 			"price": 290.40,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/fuji/fuji_int.jpg"
+			"image": "https://cdn.27.ua/799/6b/ca/551882_2.jpeg"
 		},
 		{
 			"id": 6,
 			"name": "Jerico",
 			"price": 282.00,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/jerico/floor_600x600_jerico_m_09.10.16.jpg"
+			"image": "https://starkbud.com.ua/files/products/floor_600x600_jerico_m_09.10.16.800x600_640x400.800x600.jpg"
 		},
 		{
 			"id": 7,
 			"name": "Lounge",
 			"price": 516.00,
-			"image": "http://aceramics.com.ua/images/shop/img_products/full_600x600_lounge_r_gris__2019451239.jpg"
+			"image": "https://atemshop.com.ua/content/shop/gallery/item_43323_25411_orig.png"
 		},
 		{
 			"id": 8,
 			"name": "Luanda",
 			"price": 388.32,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/luanda_600x600/600x600_luanda_bc.jpg"
+			"image": "https://atem.com.ua/content/catalog/gallery/item_5620_5219_sm.jpg"
 		},
 		{
 			"id": 9,
 			"name": "Niagara",
 			"price": 159.90,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/niagara_600x600/niagara%20600x600_int.jpg"
+			"image": "https://atem.com.ua/content/catalog/gallery/item_5472_2550_sm1.jpg"
 		},
 		{
 			"id": 10,
 			"name": "Prada",
 			"price": 159.90,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/prada/prada_int.jpg"
+			"image": "https://ceramamarket.com/upload/collections/2017/09/p1bqd7lb9fe2cah35s14tj1hap5.jpg"
 		},
 		{
 			"id": 11,
 			"name": "Sierra",
 			"price": 516.00,
-			"image": "http://aceramics.com.ua/images/shop/img_products/full_600x600_sierra_r_beige__2019491738.jpg"
+			"image": ""
 		},
 		{
 			"id": 12,
 			"name": "Topaz",
 			"price": 189.90,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/topaz/topaz_int.jpg"
+			"image": ""
 		},
 		{
 			"id": 13,
 			"name": "Comely",
 			"price": 396.12,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/comely/2018_83_cemoly600x600_1.jpg"
+			"image": ""
 		},
 		{
 			"id": 14,
 			"name": "Cremona",
 			"price": 384.54,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/cremona/600x600%20cremona%201.jpg"
+			"image": ""
 		},
 		{
 			"id": 15,
 			"name": "Hope",
 			"price": 384.54,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/hope/2018_35_calcatta_hope_600x600-01_1%20%20.jpg"
+			"image": ""
 		},
 		{
 			"id": 16,
 			"name": "Selena",
 			"price": 238.98,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/selena_60x60/selena%20600x600_int.jpg"
+			"image": ""
 		},
 		{
 			"id": 17,
 			"name": "Selenga",
 			"price": 384.54,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/selenga/2018_20_selenga_600x600_2.jpg"
+			"image": ""
 		},
 		{
 			"id": 18,
 			"name": "Vilas",
 			"price": 384.54,
-			"image": "http://aceramics.com.ua/images/stories/photogallery/interior/vilas/600x600_vilas_.jpg"
+			"image": ""
 		},
 		{
 			"id": 19,
 			"name": "Oscar",
 			"price": 406.32,
-			"image": "http://aceramics.com.ua/images/shop/img_products/full_600x600_oscar_gr_2020551234.jpg"
+			"image": ""
 		},
 		{
 			"id": 20,
 			"name": "Calacatta",
 			"price": 384.54,
-			"image": "http://aceramics.com.ua/images/shop/img_products/full_450x450_calacatta__2__20191171238.jpg"
+			"image": ""
 		}
 	]
 }
